@@ -1,18 +1,18 @@
 # Damir Vafin | Java Backend Developer
 
-Привет! Я Java backend-разработчик. Развиваюсь в серверной разработке на Java и Spring Boot, работаю над собственным pet-проектом и открыт к предложениям о работе и стажировках с удалённым форматом.
+Привет! Я Java backend-разработчик. Развиваюсь в серверной разработке на Java и Spring Boot, работаю над собственным pet-проектом. Открыт к предложениям о работе и стажировках в удалённом формате.
 
 ### Обо мне
 
-В 2026 году окончил расширенную программу профессиональной переподготовки «Java-разработчик» в Яндекс Практикуме (855 академических часов).
+В 2026 году окончил расширенную программу профессиональной переподготовки «Java-разработчик» в Яндекс Практикуме (855 академических часов, квалификация «Программист»).
 
-Ранее занимался цифровыми продуктами, предпринимательством и бизнес-аналитикой. Работал Manual QA Engineer в SimbirSoft: тестировал API микросервисного приложения, взаимодействовал с разработчиками и проверял исправления.
+Ранее занимался цифровыми продуктами, предпринимательством и бизнес-аналитикой. Работал Manual QA Engineer в SimbirSoft: тестировал REST API микросервисного приложения, взаимодействовал с разработчиками и проверял исправления.
 
-Программирование выбрал как возможность объединить техническое и аналитическое мышление, творческий подход и опыт решения бизнес-задач. Мне интересно создавать приложения, реализовывать собственные идеи и развиваться в разработке сложных backend-систем.
+Программирование выбрал как возможность объединить аналитическое мышление, творческий подход и опыт решения бизнес-задач. Мне интересно проектировать backend-системы, создавать приложения и реализовывать собственные идеи.
 
-### Технологии
+### Технологии и инструменты
 
-**Язык:** Java 21, Java Core, ООП, Collections, Stream API.
+**Java:** Java 21, Java Core, ООП, Collections Framework, Stream API.
 
 **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Cloud, REST API.
 
@@ -20,20 +20,30 @@
 
 **Интеграции:** Apache Kafka, Avro, gRPC.
 
-**Инструменты:** Git, Maven, Docker Compose, JUnit 5, MockMvc, Postman.
+**Инструменты и тестирование:** Git, Maven, Docker Compose, JUnit 5, MockMvc, Postman.
 
 ### Основные проекты
 
-**[Explore With Me](https://github.com/DamirNV/java-plus-graduation)** — дипломный микросервисный проект для управления мероприятиями и персональных рекомендаций. Java, Spring Boot, Spring Cloud, PostgreSQL, Kafka, gRPC.
+**[Explore With Me](https://github.com/DamirNV/java-plus-graduation)** — дипломный микросервисный проект для управления мероприятиями и персональных рекомендаций.
 
-**[Smart Home Tech](https://github.com/DamirNV/plus-smart-home-tech)** — система обработки событий устройств умного дома и backend интернет-магазина. Kafka, Avro, gRPC, PostgreSQL.
+Технологии: Java 21, Spring Boot, Spring Cloud, PostgreSQL, Kafka, gRPC.
 
-**[Filmorate](https://github.com/DamirNV/java-filmorate)** — REST API для фильмов, пользователей, лайков и рейтингов. Spring Boot, Spring JDBC, H2, JUnit 5.
+**[Smart Home Tech](https://github.com/DamirNV/plus-smart-home-tech)** — микросервисная система обработки событий умного дома и backend интернет-магазина.
+
+Технологии: Spring Boot, Kafka, Avro, gRPC, PostgreSQL.
+
+**[Filmorate](https://github.com/DamirNV/java-filmorate)** — REST API для управления фильмами, пользователями, лайками и рейтингами.
+
+Технологии: Spring Boot, Spring JDBC, H2, JUnit 5, MockMvc.
 
 ### Сейчас
 
-Углубляю знания Java Core, Spring и SQL. Развиваю собственный Java pet-проект.
+Углубляю знания Java Core, Spring и SQL. Разрабатываю собственный pet-проект.
 
-**Карьерная цель:** работа Java backend-разработчиком в профессиональной команде, участие в создании надёжных сервисов и дальнейшее развитие инженерных навыков.
+**Карьерная цель:** развиваться как Java backend-разработчик в профессиональной команде, участвовать в создании надёжных сервисов и совершенствовать инженерные навыки.
 
-**Контакт:** damirvafinnailevich@gmail.com
+### Контакты
+
+**Telegram:** [@not_a_great_creator](https://t.me/not_a_great_creator)
+
+**Email:** damirvafinnailevich@gmail.com
