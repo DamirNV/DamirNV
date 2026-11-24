@@ -1,49 +1,103 @@
 # Damir Vafin | Java Backend Developer
 
-Привет! Я Java backend-разработчик. Развиваюсь в серверной разработке на Java и Spring Boot, работаю над собственным pet-проектом. Открыт к предложениям о работе и стажировках в удалённом формате.
+Привет! Я Java backend-разработчик. Развиваюсь в серверной разработке на Java и Spring Boot, изучаю архитектуру распределённых систем и создаю собственные проекты.
 
-### Обо мне
+**Открыт к предложениям о работе на позиции Junior Java Backend Developer и стажировкам в удалённом формате.**
 
-В 2026 году окончил расширенную программу профессиональной переподготовки «Java-разработчик» в Яндекс Практикуме (855 академических часов, квалификация «Программист»).
+## 👨‍💻 Обо мне
 
-Ранее занимался цифровыми продуктами, предпринимательством и бизнес-аналитикой. Работал Manual QA Engineer в SimbirSoft: тестировал REST API микросервисного приложения, взаимодействовал с разработчиками и проверял исправления.
+В 2026 году окончил расширенную программу профессиональной переподготовки **«Java-разработчик» в Яндекс Практикуме** (855 академических часов, квалификация «Программист»).
 
-Программирование выбрал как возможность объединить аналитическое мышление, творческий подход и опыт решения бизнес-задач. Мне интересно проектировать backend-системы, создавать приложения и реализовывать собственные идеи.
+Ранее занимался цифровыми продуктами, предпринимательством и бизнес-аналитикой. Работал **Manual QA Engineer в SimbirSoft**: тестировал REST API микросервисного приложения, взаимодействовал с разработчиками и проверял исправления.
 
-### Технологии и инструменты
+Программирование выбрал как возможность объединить аналитическое мышление, творческий подход и опыт решения бизнес-задач. Мне интересно проектировать backend-системы, разбираться в их архитектуре и создавать приложения, решающие реальные задачи.
+
+## 🛠 Технологии и инструменты
 
 **Java:** Java 21, Java Core, ООП, Collections Framework, Stream API.
 
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Cloud, REST API.
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Cloud, Spring JDBC, REST API.
 
-**Базы данных:** PostgreSQL, SQL, H2, Spring JDBC.
+**Базы данных:** PostgreSQL, SQL, H2.
 
-**Интеграции:** Apache Kafka, Avro, gRPC.
+**Микросервисы и интеграции:** Apache Kafka, Apache Avro, gRPC, OpenFeign, Eureka, API Gateway.
 
-**Инструменты и тестирование:** Git, Maven, Docker Compose, JUnit 5, MockMvc, Postman.
+**Инструменты:** Git, GitHub, Maven, Docker, Docker Compose, Postman.
 
-### Основные проекты
+**Тестирование:** JUnit 5, MockMvc.
 
-**[Explore With Me](https://github.com/DamirNV/java-plus-graduation)** — дипломный микросервисный проект для управления мероприятиями и персональных рекомендаций.
+## 🚀 Основные проекты
 
-Технологии: Java 21, Spring Boot, Spring Cloud, PostgreSQL, Kafka, gRPC.
+### 1. Микросервисы и распределённые системы
 
-**[Smart Home Tech](https://github.com/DamirNV/plus-smart-home-tech)** — микросервисная система обработки событий умного дома и backend интернет-магазина.
+**[Explore With Me — Microservices](https://github.com/DamirNV/java-explore-with-me-microservices)**
 
-Технологии: Spring Boot, Kafka, Avro, gRPC, PostgreSQL.
+Дипломный Java Backend-проект — микросервисная платформа мероприятий с персональными рекомендациями на основе пользовательской активности.
 
-**[Filmorate](https://github.com/DamirNV/java-filmorate)** — REST API для управления фильмами, пользователями, лайками и рейтингами.
+- Микросервисная архитектура со Spring Cloud.
+- Асинхронная обработка событий через Kafka и Avro.
+- Межсервисное взаимодействие через REST и gRPC.
+- Расчёт сходства мероприятий и персональные рекомендации.
+- PostgreSQL, API Gateway, Eureka, Docker Compose.
 
-Технологии: Spring Boot, Spring JDBC, H2, JUnit 5, MockMvc.
+**Стек:** Java 21, Spring Boot, Spring Cloud, PostgreSQL, Kafka, Avro, gRPC, Docker.
 
-### Сейчас
+**[Smart Home Tech](https://github.com/DamirNV/java-smart-home-tech)**
 
-Углубляю знания Java Core, Spring и SQL. Разрабатываю собственный pet-проект.
+Микросервисная система умного дома и интернет-магазина устройств, объединяющая событийную обработку телеметрии и backend электронной коммерции.
+
+- Сбор и обработка данных датчиков через Kafka, Avro и gRPC.
+- Анализ состояния устройств и выполнение пользовательских сценариев.
+- Каталог товаров, управление складскими остатками и заказами.
+- Взаимодействие сервисов через OpenFeign.
+- API Gateway, Spring Security, Eureka и Spring Cloud Config.
+
+**Стек:** Java 21, Spring Boot, Spring Cloud, Kafka, Avro, gRPC, PostgreSQL, OpenFeign, Docker Compose.
+
+### 2. Spring Boot и REST API
+
+**[Java ShareIt](https://github.com/DamirNV/java-shareit)**
+
+Backend-приложение для совместного использования вещей: размещение предложений, бронирование, управление заявками и отзывы.
+
+**Стек:** Java, Spring Boot, Spring Data JPA, PostgreSQL, REST API.
+
+**[Explore With Me — Team Project](https://github.com/DamirNV/explore-with-me)**
+
+Командный проект платформы мероприятий с управлением заявками, модерацией, комментариями и отдельным сервисом статистики.
+
+**Мой вклад:** административный API, схема базы данных, обработка ошибок, Docker-инфраструктура, функциональность комментариев и оптимизация запросов.
+
+**Стек:** Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Docker Compose.
+
+**[Java Filmorate](https://github.com/DamirNV/java-filmorate)**
+
+REST API для работы с фильмами и пользователями, оценки популярности фильмов, обработки лайков и рейтингов.
+
+**Стек:** Java, Spring Boot, Spring JDBC, SQL, H2, JUnit 5, MockMvc.
+
+### 3. Java Core и HTTP
+
+**[Java Movies Hub](https://github.com/DamirNV/java-movies-hub)**
+
+Учебный backend-проект с реализацией HTTP API на Java без использования Spring. Практика Java Core, обработки HTTP-запросов и организации серверной логики.
+
+**Стек:** Java Core, HTTP, REST API.
+
+---
+
+📂 **[Все мои репозитории на GitHub](https://github.com/DamirNV?tab=repositories)** — другие учебные проекты и практические задания по Java.
+
+## 📚 Сейчас
+
+Углубляю знания Java Core, Spring, SQL и проектирования backend-приложений. Развиваю собственный pet-проект и готовлюсь к техническим собеседованиям.
 
 **Карьерная цель:** развиваться как Java backend-разработчик в профессиональной команде, участвовать в создании надёжных сервисов и совершенствовать инженерные навыки.
 
-### Контакты
+## 📬 Контакты
 
 **Telegram:** [@not_a_great_creator](https://t.me/not_a_great_creator)
 
 **Email:** damirvafinnailevich@gmail.com
+
+**GitHub:** [github.com/DamirNV](https://github.com/DamirNV)
